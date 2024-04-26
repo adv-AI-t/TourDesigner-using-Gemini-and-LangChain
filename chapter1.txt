@@ -1,0 +1,16 @@
+LangChain is a framework to build LLM aaplications
+
+**LLMs**
+LangChain has support for various LLMs like OpenAI, HuggingFace LLMs, etc
+You can import the LLM of your choice by:
+
+from langchain.llms import <name of the LLM>
+
+What is prompt template?
+-> It is the template, just like a python string in which we manipulate the prompt with input passed as an argument
+
+1. Input variables -- a list of variables taken as input
+2. template -- It is the actual prompt with variable name enclosed in {}
+
+KYA HAI CHAIN?
+In simple words, a chain is a sequence of inputs and prompts combined with an LLM to generate content

@@ -1,0 +1,8 @@
+Aim: To create an application for generating itnery for visiting a city
+What to generate?
+
+1 -> Itnery
+2 -> Food
+3 -> Shopping
+
+Inputs: Dropdown box for name of city
